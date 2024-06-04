@@ -28,7 +28,7 @@ export default defineComponent({
     return {
       title: 'Dawn Token swap app',
       description: 'A fake Token swapping interface with simulated wallet and some pools.',
-      imageUrl: '/images/dawn-token-swap-app.webp' 
+      imageUrl: '/images/dawn-token-swap-app.webp'
     }
   },
   mounted() {

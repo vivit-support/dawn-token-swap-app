@@ -9,10 +9,14 @@
     "format": "prettier --write src/**/*.{ts,vue,d.ts}"
   },
   "dependencies": {
+    "@walletconnect/web3wallet": "^1.12.1",
+    "@web3modal/ethers5": "^4.2.3",
     "bignumber.js": "^9.0.2",
+    "ethers": "^5.7.2",
     "vue": "^3.2.33",
     "vue-router": "^4.0.15",
-    "vuex": "^4.0.2"
+    "vuex": "^4.0.2",
+    "web3": "^4.9.0"
   },
   "devDependencies": {
     "@babel/types": "^7.17.10",
